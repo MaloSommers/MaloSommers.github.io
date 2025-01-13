@@ -1,5 +1,8 @@
 # Malo SOMMERS
 
+<img src="moi.jpg" alt="Description of Image" style="width: 200px; height: auto;">
+
+
 I'm a Stanford 2nd year master's student in the ICME. Before Stanford, I obtained a bachelor and a Ms degree at Ecole Polytechnique in France, where I majored in Applied Mathematics.  My research interest lies broadly in Machine learning and Optimization. Also, I regularly play soccer in the morning!
 
 Email: msommers@stanford.edu
